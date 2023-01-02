@@ -1,4 +1,4 @@
-package com.voltup.customer.util;
+
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.LinearLayoutManager;
