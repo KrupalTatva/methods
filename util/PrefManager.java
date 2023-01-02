@@ -1,4 +1,4 @@
-package com.voltup.customer.util;
+
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -6,10 +6,7 @@ import android.text.TextUtils;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-import com.voltup.customer.network.model.location.LocationModel;
-import com.voltup.customer.network.model.login.LoginModel;
-import com.voltup.customer.network.model.user.ProfileData;
-import com.voltup.customer.persistance.db.location.DBLocation;
+
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;
@@ -17,10 +14,6 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Objects;
 
-import static com.voltup.customer.util.Constants.COORD_TIME_IST;
-import static com.voltup.customer.util.Constants.IS_GPS;
-import static com.voltup.customer.util.Constants.LATITUDE;
-import static com.voltup.customer.util.Constants.LONGITUDE;
 
 public class PrefManager {
     private SharedPreferences sharedPreferences;
