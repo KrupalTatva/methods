@@ -1,4 +1,4 @@
-package com.voltup.customer.util;
+
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
