@@ -1,4 +1,4 @@
-package com.voltup.customer.util;
+
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
