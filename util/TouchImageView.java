@@ -1,4 +1,4 @@
-package com.voltup.customer.util;
+
 
 
 import android.annotation.TargetApi;
@@ -29,7 +29,6 @@ import android.widget.Scroller;
 
 import androidx.appcompat.widget.AppCompatImageView;
 
-import com.voltup.customer.R;
 
 
 public class TouchImageView extends AppCompatImageView {
