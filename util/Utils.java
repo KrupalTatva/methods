@@ -1,4 +1,4 @@
-package com.voltup.customer.util;
+
 
 import android.Manifest;
 import android.annotation.SuppressLint;
@@ -18,9 +18,6 @@ import android.view.inputmethod.InputMethodManager;
 import androidx.appcompat.app.AlertDialog;
 import androidx.core.content.ContextCompat;
 
-import com.voltup.customer.R;
-import com.voltup.customer.network.model.battery.transactions.BatteryTransactionData;
-import com.voltup.customer.network.model.customerlist.CustomerData;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
