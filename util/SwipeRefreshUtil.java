@@ -1,8 +1,7 @@
-package com.voltup.customer.util;
+
 
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
-import com.voltup.customer.R;
 
 public class SwipeRefreshUtil {
 
