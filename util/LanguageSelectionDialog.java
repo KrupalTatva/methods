@@ -1,4 +1,4 @@
-package com.voltup.customer.util;
+
 
 import android.app.Dialog;
 import android.content.Context;
@@ -13,7 +13,6 @@ import androidx.annotation.DrawableRes;
 import androidx.annotation.NonNull;
 
 import com.google.android.material.button.MaterialButton;
-import com.voltup.customer.R;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
